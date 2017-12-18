@@ -12,6 +12,7 @@ Lan Party organisé par Chambefort Hugo, Perin Clément, Abdoun Nadir, Laporte D
 **Utilisation**
 
 9 Switch de 48 Ports + 1 Switch de 20 Ports = 4020.48 + 266,50 = 4286.98€
+
 Ce qui nous offre 452 Ports, 442 pour les joueurs et 10 Ports pour relier les Switch au Routeur
 
 
