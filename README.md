@@ -10,6 +10,7 @@ Lan Party organisé par Chambefort Hugo, Perin Clément, Abdoun Nadir, Laporte D
 * [Switch 48 Ports](https://www.amazon.fr/Cisco-SLM2048T-EU-Smart-Switch-Gigabit/dp/B004GQL3XW/ref=sr_1_1?ie=UTF8&qid=1513590098&sr=8-1&keywords=switch+48+port)- 446,72€ 
 
 **Utilisation**
+
 9 Switch de 48 Ports + 1 Switch de 20 Ports = 4020.48 + 266,50 = 4286.98€
 Ce qui nous offre 452 Ports, 442 pour les joueurs et 10 Ports pour relier les Switch au Routeur
 
