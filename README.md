@@ -9,7 +9,7 @@ Lan Party organisé par Chambefort Hugo, Perin Clément, Abdoun Nadir, Laporte D
 
 * [Switch 48 Ports](https://www.amazon.fr/Cisco-SLM2048T-EU-Smart-Switch-Gigabit/dp/B004GQL3XW/ref=sr_1_1?ie=UTF8&qid=1513590098&sr=8-1&keywords=switch+48+port)- 446,72€ 
 
-* [Câble Ethernet](https://www.amazon.fr/Ugreen-11260-Cat7-c%C3%A2ble-r%C3%A9seau/dp/B073WQDMCD/ref=sr_1_1?s=electronics&ie=UTF8&qid=1513599423&sr=1-1&keywords=cables%2Bethernet%2B5m&th=1)- 20M : 28.99  - 15M :22.99  - 10M : 16.99
+* [Câble Ethernet](https://www.amazon.fr/Ugreen-11260-Cat7-c%C3%A2ble-r%C3%A9seau/dp/B073WQDMCD/ref=sr_1_1?s=electronics&ie=UTF8&qid=1513599423&sr=1-1&keywords=cables%2Bethernet%2B5m&th=1)- 20M : 28.99€  - 15M :22.99€  - 10M : 16.99€
 
 
 9 Switch de 48 Ports + 1 Switch de 20 Ports = 4020.48 + 266,50 = 4286.98€
