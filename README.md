@@ -29,3 +29,21 @@ Totale : 5867,58€
 Ce qui nous offre 452 Ports, 442 pour les joueurs et 10 Ports pour relier les Switch au Routeur
 
 
+# Logistique
+
+
+
+
+# Sponsors
+
+
+
+
+
+
+
+
+
+
+
+
