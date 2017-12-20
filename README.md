@@ -39,6 +39,9 @@ Ce qui nous offre 452 Ports, 442 pour les joueurs et 10 Ports pour relier les Sw
 **Légendes**
 
 * ![Switch](https://github.com/HugoChambefort/Projet-Lan/blob/master/L%C3%A9gende/switch.png)  Switch
+* ![Stand](https://github.com/HugoChambefort/Projet-Lan/blob/master/L%C3%A9gende/Stand.png)  Stand
+* ![Scène](https://github.com/HugoChambefort/Projet-Lan/blob/master/L%C3%A9gende/sc%C3%A8ne%20%2B%20si%C3%A8ge.png)  Scène + Siège
+* ![PC](https://github.com/HugoChambefort/Projet-Lan/blob/master/L%C3%A9gende/pc%20jeux%20principaux.png)  Bureau de PC
 
 
 # Sponsors
