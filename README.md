@@ -14,9 +14,9 @@ Lan Party organisé par Chambefort Hugo, Perin Clément, Abdoun Nadir, Laporte D
 
 * [CABLE RJ45 F/UTP CAT6 Blanc - 10 m](https://www.maison-du-cable.com/Prix/Cordon-patch-RJ45-ftp-CAT6-9179.html?gclid=CjwKCAiAjuPRBRBxEiwAeQ2QPoOWmAJZWPYzhn8F3W5aN5Wz9I9KTK2VmEwZMo5zAglGSUKqWM-OyxoCCvcQAvD_BwE)- 164 unité, 7,13€/u, 1169,32€ Totale
 
-* [CABLE RJ45 F/UTP CAT6 Blanc - 10 m](https://www.maison-du-cable.com/Prix/CORDON-PATCH-RJ45-UTP-CAT6-6779.html?gclid=CjwKCAiAjuPRBRBxEiwAeQ2QPiuDZBcK9SEsp_WdpZKeLZdoxepf4xt3yhCFOxrwea1YLf2zohX7ChoC2X4QAvD_BwE)- 164 unité, 11,99€/u, 1966,36€ Totale
+* [CABLE RJ45 F/UTP CAT6 Blanc - 20 m](https://www.maison-du-cable.com/Prix/CORDON-PATCH-RJ45-UTP-CAT6-6779.html?gclid=CjwKCAiAjuPRBRBxEiwAeQ2QPiuDZBcK9SEsp_WdpZKeLZdoxepf4xt3yhCFOxrwea1YLf2zohX7ChoC2X4QAvD_BwE)- 164 unité, 11,99€/u, 1966,36€ Totale
 
-* [CABLE RJ45 F/UTP CAT6 Blanc - 10 m](https://www.maison-du-cable.com/Prix/Cordon-patch-RJ45-ftp-CAT6-9182.html?gclid=CjwKCAiAjuPRBRBxEiwAeQ2QPuQEqnubgrRxtE5EI4EKAmaMGeeB7_IvgygIkKMijjNwA7JLC3GG8xoCJvkQAvD_BwE)- 130 unité, 15,31€/u, 1990,30€ Totale
+* [CABLE RJ45 F/UTP CAT6 Blanc - 25 m](https://www.maison-du-cable.com/Prix/Cordon-patch-RJ45-ftp-CAT6-9182.html?gclid=CjwKCAiAjuPRBRBxEiwAeQ2QPuQEqnubgrRxtE5EI4EKAmaMGeeB7_IvgygIkKMijjNwA7JLC3GG8xoCJvkQAvD_BwE)- 130 unité, 15,31€/u, 1990,30€ Totale
 
 * [Fibre monomode  - 50 m](https://www.maison-du-cable.com/Prix/Cordon-patch-RJ45-ftp-CAT6-9182.html?gclid=CjwKCAiAjuPRBRBxEiwAeQ2QPuQEqnubgrRxtE5EI4EKAmaMGeeB7_IvgygIkKMijjNwA7JLC3GG8xoCJvkQAvD_BwE)- 6 unité, 42,96€/u, 257,76€ Totale
 
