@@ -38,7 +38,7 @@ Ce qui nous offre 452 Ports, 442 pour les joueurs et 10 Ports pour relier les Sw
 
 **Légendes**
 
-* ![Switch](https://github.com/HugoChambefort/Projet-Lan/blob/master/L%C3%A9gende/switch.png) - Switch
+* ![Switch](https://github.com/HugoChambefort/Projet-Lan/blob/master/L%C3%A9gende/switch.png)  Switch
 
 
 # Sponsors
