@@ -31,7 +31,15 @@ Ce qui nous offre 452 Ports, 442 pour les joueurs et 10 Ports pour relier les Sw
 
 # Logistique
 
-![ScreenShot](https://github.com/HugoChambefort/Projet-Lan/blob/master/Plan%20projet%202.png)
+**Map LAN**
+
+
+![MAP](https://github.com/HugoChambefort/Projet-Lan/blob/master/Plan%20projet%202.png)
+
+**Légendes**
+
+![Switch](https://github.com/HugoChambefort/Projet-Lan/blob/master/L%C3%A9gende/switch.png)
+
 
 # Sponsors
 
