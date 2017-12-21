@@ -45,9 +45,10 @@ Ce qui nous offre 452 Ports, 442 pour les joueurs et 10 Ports pour relier les Sw
 
 
 **Budget**
+
 Fichier Excel contenant tout nos comptes :
 
-* ![PC](https://github.com/HugoChambefort/Projet-Lan/blob/master/Classeur%20devis%20final.xlsx)  
+* [Fichier Excel](https://github.com/HugoChambefort/Projet-Lan/blob/master/Classeur%20devis%20final.xlsx)  
 
 
 
