@@ -2,7 +2,7 @@
 
 Lan Party organisé par Chambefort Hugo, Perin Clément, Abdoun Nadir, Laporte Damien
 
-# Listes Du Matériel
+# Listes Du Matériel 
 
 **Switch**
 
@@ -29,7 +29,7 @@ Totale : 5867,58€
 Ce qui nous offre 452 Ports, 442 pour les joueurs et 10 Ports pour relier les Switch au Routeur
 
 
-# Logistique
+# Mise en Place
 
 **Map LAN**
 
@@ -49,6 +49,15 @@ Ce qui nous offre 452 Ports, 442 pour les joueurs et 10 Ports pour relier les Sw
 Fichier Excel contenant tout nos comptes :
 
 * [Fichier Excel](https://github.com/HugoChambefort/Projet-Lan/blob/master/Classeur%20devis%20final.xlsx)  
+
+
+
+# Notre Document Technique
+
+Contient tout nos choix niveau Logistique :
+
+* [Doc](https://github.com/HugoChambefort/Projet-Lan/blob/master/Documentation%20Projet%20LAN.docx)  
+
 
 
 
