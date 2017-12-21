@@ -44,7 +44,7 @@ Ce qui nous offre 452 Ports, 442 pour les joueurs et 10 Ports pour relier les Sw
 * ![PC](https://github.com/HugoChambefort/Projet-Lan/blob/master/L%C3%A9gende/pc%20jeux%20principaux.png)  Bureau de PC
 
 
-**Budget**
+# Budget
 
 Fichier Excel contenant tout nos comptes :
 
