@@ -1,0 +1,11 @@
+interface FastEthernet*Num*
+ip address x.x.x.x x.x.x.x
+exit
+
+ip dhcp pool "nom"
+network "addresse de départ" "masque"
+dns-server "dns"
+default-router "l'addresse mise pour le port" (passerelle)
+exit
+copy running-config startup-config
+
